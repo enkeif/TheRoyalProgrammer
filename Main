@@ -4,7 +4,7 @@ package first;
 public class Main {
 
 	public static void main(String[] args) {
-	        FrontBookkeeper61778 bkeeper = new FrontBookkeeper61778();
+	        FrontBookkeeper61828 bkeeper = new FrontBookkeeper61828();
 		String[] arr = {
 				"regiment_Stoykov = [1, 2, 3]",
 				"show regiment_Stoykov",
