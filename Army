@@ -16,7 +16,7 @@ public class Army {
 	}
 
 	public void addingUnit(String news) {
-		String[] temp = news.split(" = "); 
+		String[] temp = news.split(" = ");  //bla
 		temp[1] = temp[1].substring(1);
 		String[] tempSoldiers = temp[1].split("\\D+");
 		ArrayList<String> soldiers = new ArrayList<String>(
